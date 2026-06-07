@@ -1,0 +1,17 @@
+I interviewed at Atlassian (Sydney)
+
+Interview
+
+The process started with an online assessment (OA), which was reasonably balanced in difficulty. Candidates who passed were invited to a live coding interview conducted over Zoom with a software engineer. The interview focused on data structures and algorithms, with an emphasis on problem-solving approach, code clarity, and communication throughout the solution.
+
+I applied through college or university. I interviewed at Atlassian (Bengaluru) in Jul 2024
+
+Interview
+
+First round was OA with 3 DSA problems. Second round was technical interview based on DSA. Third round was culture and leadership values round based on past projects and experience.
+
+Interview questions
+
+Question 1
+
+DSA problems were based on arrays, heaps and binary search.

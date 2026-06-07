@@ -1,0 +1,23 @@
+I applied through a recruiter. I interviewed at LinkedIn in Nov 2025
+
+Interview
+
+Starts with OA, then goes to phone screen. After phone screen, there is a super day with behavioral with hiring manager and then a technical with a senior engineer with two medium LC questions.
+
+Interview questions
+
+Question 1
+
+They asked why I was interested in an internship at LinkedIn.
+
+I interviewed at LinkedIn (Mountain View, CA) in Nov 2025
+
+Interview
+
+Pretty chill overall. Recruiter call -> OA -> 1h behavioral and 1h technical, back-to-back. 2 LC mediums for technical. Was asked to dry-run the code and follow-up questions after solving it optimally.
+
+Interview questions
+
+Question 1
+
+Least common ancestor of a binary tree.

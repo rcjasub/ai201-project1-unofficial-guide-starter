@@ -9,31 +9,27 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+Student experiences with tech internship recruiting — covering application timelines, resume strategy, interview formats (OA, phone screen, technical), referrals, and offer decisions. This knowledge is valuable because official career center advice is generic and sanitized — it doesn't reflect actual company timelines, which pipelines ghost applicants, or how competitive each process really is. The most useful, opinionated intelligence lives scattered across Glassdoor interview reports, university career wikis, and student guides that most people never find until they're already behind.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
 | # | Source | Type | URL or file path |
 |---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | Cornell Career — Recruiting Timeline by Career Pathway | Structured guide | https://career.cornell.edu/resources/recruiting-timeline-by-career-pathways/ |
+| 2 | UFL Career Center — Recruitment Timeline | Medium guide | https://career.ufl.edu/recruitment-timeline-and-what-should-i-know-before-i-start-to-apply/ |
+| 3 | UChicago Career Advancement — Recruiting Timelines | Structured page | https://careeradvancement.uchicago.edu/career-toolkit/get-recruiting-ready/recruiting-timelines/ |
+| 4 | Yale OCS — CS Industry Guide | Short guide | https://ocs.yale.edu/resources/yale-computer-science-career-guide/ |
+| 5 | Industry Aware (Substack) — Timing for Internships | Long article | https://industryaware.substack.com/p/timing-for-internships-when-to-apply |
+| 6 | Tippie Business School — TCS Recruiting Timelines PDF | PDF | https://students.tippie.uiowa.edu/sites/students.tippie.uiowa.edu/files/2025-08/TCS-Recruiting-Timelines.pdf |
+| 7 | Glassdoor — Microsoft SWE Intern Interview Reviews | Review aggregator | https://www.glassdoor.com/Interview/Microsoft-Software-Engineer-Internship-Interview-Questions-EI_IE1651.0,9_KO10,38.htm |
+| 8 | Glassdoor — LinkedIn SWE Intern Interview Reviews | Review aggregator | https://www.glassdoor.com/Interview/LinkedIn-Software-Engineer-Intern-Interview-Questions-EI_IE34865.0,8_KO9,33.htm |
+| 9 | Glassdoor — Atlassian SWE Intern Interview Reviews | Review aggregator | https://www.glassdoor.com/Interview/Atlassian-Software-Engineer-Intern-Interview-Questions-EI_IE115699.0,9_KO10,34.htm |
+| 10 | Glassdoor — Salesforce SWE Intern Interview Reviews | Review aggregator | https://www.glassdoor.com/Interview/Salesforce-Software-Engineer-Intern-Interview-Questions-EI_IE11159.0,10_KO11,35.htm |
+| 11 | Glassdoor — IBM SWE Intern Interview Reviews | Review aggregator | https://www.glassdoor.com/Interview/IBM-Software-Engineer-Intern-Interview-Questions-EI_IE354.0,3_KO4,28.htm |
+| 12 | Penn State CS Resource Guide — Interview Prep | Short how-to page | https://sites.psu.edu/csresourceguide/interview-prep |
+| 13 | UW CSE — Kim's Ultimate Guide to Building Your Resume | Long Q&A guide | https://ugradnews.cs.washington.edu/2019/09/09/kims-ultimate-guide-to-building-your-resume |
 
 ---
 

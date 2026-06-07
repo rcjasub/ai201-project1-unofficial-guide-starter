@@ -1,0 +1,35 @@
+I interviewed at Microsoft
+
+Interview
+
+The hiring process consists of a HackerRank home exam, followed by three technical interviews covering LeetCode-style problems and system architecture. Once this is done, you will have a final HR interview.
+
+Interview questions
+
+Question 1
+
+I had a technical interview where I was asked to solve the classic 'Climbing Stairs' problem (LeetCode #70), which is a dynamic programming question based on the Fibonacci sequence.
+
+I interviewed at Microsoft (Cairo, Cairo Governorate)
+
+Interview
+
+One HR interview, then two problem-solving interviews (beginner level) on HackerRank. You can choose the best programming language for you to use in solving problems. You should think out loud to enable your interviewer to understand how you would think to solve the problem.
+
+Interview questions
+
+Question 1
+
+Find the lowest difference between two numbers in a list.
+
+I applied online. I interviewed at Microsoft (Tel Aviv-Yafo) in Mar 2026
+
+Interview
+
+The interviewers were very nice, they were supportive and gave confidence during it. I researched this company as part of my job search and found their public presence and reputation to be generally positive. Their mission and values seem aligned with what I'm looking for in an employer.
+
+Interview questions
+
+Question 1
+
+Asked me about a personal project and walked through my code.

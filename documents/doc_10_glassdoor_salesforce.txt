@@ -1,0 +1,23 @@
+I interviewed at Salesforce (San Francisco, CA)
+
+Interview
+
+It was pretty relaxed, the interviewer was quite kind however the questions were a little challenging for a sophomore. Overall it was a positive interview experience and it shouldn't be too hard if you do LeetCode — the questioning patterns were similar.
+
+Interview questions
+
+Question 1
+
+I was asked to arrange timestamps of multiple servers by their check-in check-out time. You were meant to use a hashmap to do it.
+
+I interviewed at Salesforce
+
+Interview
+
+Technical interview about the Online Assessment. Asked about thought process in solving the online assessment questions. Pretty straightforward. The recruiting process took about one month. Not stressful at all. Nice interviewers.
+
+Interview questions
+
+Question 1
+
+The online assessment questions. How did you come about the solution?

@@ -1,0 +1,36 @@
+Software Developer Intern Interview
+Apr 15, 2026
+Anonymous Interview Candidate — Austin, TX
+Declined offer. Neutral experience. Easy interview.
+
+I applied online. I interviewed at IBM (Austin, TX) in Mar 2026
+
+Interview
+
+Received assessment and then blitz interview. Discussed about basic software engineering questions based on frontend and backend principles. Went in depth about resume and then ended with a case study.
+
+Interview questions
+
+Question 1
+
+How can you save authentication in a website?
+
+Accepted offer. Positive experience. Average interview.
+
+I interviewed at IBM
+
+Interview
+
+45 minute interview with 30 mins behavioral and 15 mins technical. Behavioral was your regular situation-based and tell me about a time questions, not too bad. No coding in the technical. The conceptual technical questions they ask are based on your resume and what you tell them about your experience. I had a couple of questions related to REST API implementation and data structures.
+
+I applied online. I interviewed at IBM in Feb 2026
+
+Interview
+
+Mostly behavior questions, asked about the resume and projects, few technical questions at the end. No coding in the interview. Technical questions were not hard to complete. Heard back after a month.
+
+Interview questions
+
+Question 1
+
+What is your favorite project?

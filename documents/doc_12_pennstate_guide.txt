@@ -1,0 +1,20 @@
+LeetCode
+Found at:
+leetcode.com
+Abstract:
+LeetCode is a website that offers thousands of interview practice questions for its users. The site has over 2 million registered users, and has over 2,500 practice problems (but please don’t go trying to solve them all). Coding interviews have become a staple of the computer science internship experience, and taking these interviews is a skill that must be practiced. With a free subscription, students can start answering questions with any language of their choice and any question type they want.
+Coding interviews can often take many different forms, but the underlying principles of each are relatively similar. They will often consist of a data structure or an algorithm question. The LeetCode question bank can be filtered for the difficulty and type of question that a student wants.
+Figure: The explore page of LeetCode.com
+Tips:
+Start with easy questions. Start simple and build your way up to more difficult problems.
+Give a solid effort on every question. Give yourself at least 10 minutes to think about a problem before you look at the answers.
+If you don’t know where to start, filter for the “Blind 75” problems. These questions are the most indicative of coding interview problems that people have had in real interviews.
+Penn State Career Services
+Found at:
+studentaffairs.psu.edu
+Abstract:
+Penn State Career Services is an organization that is exclusively available to Penn State students. The service offers in-person and virtual help with student resumes, mock interview, and finding career fairs that fit for you. The behavioral part of interviews it just as important as the technical part of interviews. Located at the Bank of America Career Services building or online, students need to make use of this fantastic resource while they are still a student at Penn State.
+Figure: Screenshot of the Penn State career services landing page.
+Tips:
+Make an appointment as soon as possible. Even if you don’t have a complete resume or are ready for an interview, the career service is there to help.
+the service also has business attire available for rent upon request.
