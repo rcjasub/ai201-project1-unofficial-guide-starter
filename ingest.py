@@ -160,6 +160,29 @@ def chunk_document(text: str, doc_type: str) -> list[str]:
     return chunk_guide(text, CHUNK_SIZES["guide"], GUIDE_OVERLAP)
 
 
+# Maps Glassdoor filename keywords → display name for the company prefix
+_COMPANY_NAMES = {
+    "microsoft": "Microsoft",
+    "linkedin":  "LinkedIn",
+    "atlassian": "Atlassian",
+    "salesforce": "Salesforce",
+    "ibm":       "IBM",
+}
+
+def get_review_prefix(filename: str) -> str:
+    """Return a company prefix for Glassdoor review chunks.
+
+    Without this, a chunk like 'The hiring process consists of a HackerRank exam...'
+    embeds as a generic interview description and loses the company signal entirely.
+    Prepending 'Microsoft interview review:' keeps the company name in the embedding
+    so queries like 'What is the Microsoft interview like?' retrieve the right doc.
+    """
+    for key, name in _COMPANY_NAMES.items():
+        if key in filename.lower():
+            return f"{name} interview review: "
+    return ""
+
+
 # ── Pipeline ────────────────────────────────────────────────────────────────────
 
 def run_pipeline(docs_dir: Path = DOCS_DIR) -> list[dict]:
@@ -171,9 +194,10 @@ def run_pipeline(docs_dir: Path = DOCS_DIR) -> list[dict]:
         cleaned = clean_text(doc["text"])
         doc_type = get_doc_type(doc["source"])
         chunks = chunk_document(cleaned, doc_type)
+        prefix = get_review_prefix(doc["source"]) if doc_type == "review" else ""
         for i, chunk in enumerate(chunks):
             all_chunks.append({
-                "text":     chunk,
+                "text":     prefix + chunk,
                 "source":   doc["source"],
                 "doc_type": doc_type,
                 "chunk_id": f"{doc['source']}::chunk_{i:03d}",
